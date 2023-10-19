@@ -102,12 +102,12 @@ Pre-trained checkpoints can be found in this link: xxxxxxxxx (need to fill after
 |         |    1x    |     Yes     |           |        71.4         |        73.5        |
 |         |    3x    |             |           |        75.7         |        75.6        |
 |         |    3x    |     Yes     |           |        75.4         |        75.2        |
-|         |    1x    |             |    Yes    |        xx.x         |        xx.x        |
+|         |    1x    |             |    Yes    |        74.4         |        74.3        |
 | redcaps |    1x    |             |           |        73.7         |        74.6        |
 |         |    1x    |     Yes     |           |        73.4         |        74.6        |
 |         |    3x    |             |           |        76.7         |        76.6        |
 |         |    3x    |     Yes     |           |        76.4         |        76.4        |
-|         |    1x    |             |    Yes    |        xx.x         |        xx.x        |
+|         |    1x    |             |    Yes    |        75.4         |        75.4        |
 
 You can do downsample and adding text at the same time, but we do not have check points here.
 
