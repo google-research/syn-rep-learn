@@ -92,7 +92,7 @@ layer for the linear classifiers.
 
 ## Results and Pre-trained Models
 
-Pre-trained checkpoints can be found in this link: xxxxxxxxx (need to fill after Ariane approval)
+Pre-trained checkpoints can be found in this [link](https://www.dropbox.com/sh/1i1oilryhywgo9w/AAA6OTKU9uMmaK43Zwk6bu2Ma?dl=0).
 
 (1) cc12m and redcaps: we generate 10 images for each caption, and use 6 out of 10 for each batch.
 
@@ -120,7 +120,7 @@ You can do downsample and adding text at the same time, but we do not have check
 |             |  10M  |        73.5         |        73.4        |
 |             |  20M  |        73.9         |        73.8        |
 |             |  50M  |        74.1         |        74.0        |
-| CLIP        |  3M   |        60.6         |        60.6        |
+| CLIP (real images)       |  3M   |        60.6         |        60.6        |
 |             |  10M  |        69.9         |        69.7        |
 |             |  20M  |        71.5         |        71.5        |
 |             |  50M  |        72.9         |        73.0        |
