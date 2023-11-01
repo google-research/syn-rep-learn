@@ -57,7 +57,7 @@ torchrun --nproc_per_node=8 --nnodes=4 \
     --log_dir /path/to/output_log \
     --csv_path /path/to/csv_file \
     --folder_list /data/path1 /data/path2 /data/path3 ... \
-    --n_img 1 --downsample --downsample_prob 0.05 --down_res 64 128
+    --n_img 6 --downsample --downsample_prob 0.05 --down_res 64 128
 ```
 On other nodes, change `--node_rank` accordingly.
 
