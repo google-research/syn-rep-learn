@@ -62,8 +62,8 @@ class MultiPosConLoss(nn.Module):
         self.temperature = temp
 
     def forward(self, outputs):
-        feats = outputs['feats']
-        labels = outputs['labels']
+        feats = outputs['feats']    # feats shape: [B, D]
+        labels = outputs['labels']    # labels shape: [B]
 
         device = (torch.device('cuda')
                   if feats.is_cuda
