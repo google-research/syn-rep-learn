@@ -22,7 +22,7 @@ import torchvision.transforms as transforms
 class DownSampleAndUpsample(object):
     """downsample and then upsample images. This augmentation is applied
     to synthetic images which are all in high resolution. W/ this augmentation,
-    we can fix the performance gap caused by"""
+    we can narrow down the performance gap caused by resolution differences"""
 
     def __init__(self,
                  down_res: Union[list, int] = [128, 64],
