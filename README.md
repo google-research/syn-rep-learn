@@ -10,3 +10,7 @@ This is not an officially supported Google product.
 
 ## License
 Apache2 license.
+
+## Contact
+Yonglong Tian (yonglong@google.com)  
+Lijie Fan (lijiefan@mit.edu)
