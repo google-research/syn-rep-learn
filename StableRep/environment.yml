@@ -37,6 +37,6 @@ dependencies:
     - more-itertools>=8.0.0
     - transformers==4.19.2
     - timm==0.5.4
-    - pillow=9.4.0
+    - pillow==9.4.0
     - tqdm==4.65.0
     - clip==1.0
