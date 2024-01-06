@@ -7,7 +7,7 @@ they were trained using Jax inside
 Google's computation framework. To facilitate reproduction of our work 
 outside Google, we try to provide a Pytorch reference code here. We haven't
 checked the performance of using this pytorch reference code on the dataset
-synthesized from the SynCaps-150M used in our paper, becasue of various reasons.
+synthesized from the SynCaps-150M used in our paper, because of various reasons.
 
 
 ## Data
